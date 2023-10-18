@@ -1,6 +1,7 @@
 # amari_buck_midterm
 
 The Greatest Rivalry In Comic Book History!!!
+
 # MIDTERM: 
 # TEAM BASED GITHUB PROJECT
 *A few paragraphs of text for each point of view and at least one image for each is required. One team member must create a repository
@@ -12,7 +13,7 @@ branch when you’re finished.*
 
 
 *Team Name:*
-# Jester and the Dark Knight
+# Joker and the Dark Knight
 Bat, Why Are You so Serious!!!
 
 
@@ -31,6 +32,4 @@ I come from the west part of africa, Nigeria. <br> I am a christian.<br> My favo
 
 
 &copy; Team Based Github Midterm Project 2023.
-
-The Greatest Rivalry In Comic Book History!
 
