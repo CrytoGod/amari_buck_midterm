@@ -1,4 +1,5 @@
 # amari_buck_midterm
+
 The Greatest Rivalry In Comic Book History!!!
 # MIDTERM: 
 # TEAM BASED GITHUB PROJECT
@@ -8,7 +9,6 @@ because it’s a simple 1-off).
 Each team member will create a branch and add their argument / position and image(s) to the app. Merge everything to the master
 branch when you’re finished.*
 
-----------------------------------------------
 
 
 *Team Name:*
@@ -30,5 +30,7 @@ Hello! I'm Amari Buck, and I'd like to share a bit about myself. This repository
 I come from the west part of africa, Nigeria. <br> I am a christian.<br> My favorite colour is Red.
 
 
----------------------------------------------
 &copy; Team Based Github Midterm Project 2023.
+
+The Greatest Rivalry In Comic Book History!
+
